@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Dedicated Frontend Developer with a solid understanding of UX/UI principles. Passionate about creating intuitive and visually appealing web experiences. Proficient in HTML, CSS, JS, TS and various frontend frameworks, primary Angular. Proven track record of delivering high quality, responsive websites and applications. Committed to staying updated with the latest industry trends and technologies.
 
 
 # 💻 Tech Stack:
